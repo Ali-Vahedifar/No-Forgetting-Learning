@@ -1,12 +1,3 @@
-"""
-No Forgetting Learning (NFL) and NFL+ Implementation - CORRECTED VERSION
-
-Memory-free Continual Learning framework for class and task incremental learning.
-This implementation follows the stepwise freezing and fine-tuning strategy exactly
-as described in the paper.
-
-Anonymous submission - ICML 2026
-"""
 
 import torch
 import torch.nn as nn
