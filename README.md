@@ -7,12 +7,12 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 1.12+](https://img.shields.io/badge/pytorch-1.12+-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-
-[Paper (NeurIPS 2026)](#) · [Results](#key-results) · [Quick Start](#getting-started) · [Reproduce Everything](#reproduce-the-paper)
+[NFL Ch.pdf](https://github.com/user-attachments/files/27278682/NFL.Ch.pdf)) · [Quick Start](#getting-started) · [Reproduce Everything](#reproduce-the-paper)
 
 </div>
 
 ---
+<a href="NFL Ch.pdf">View Figure (PDF)</a>
 
 ## What's this about?
 
@@ -227,11 +227,14 @@ Honest about what doesn't work perfectly:
 ## Citation
 
 ```bibtex
-@inproceedings{anonymous2026nfl,
-  title={No Forgetting Learning: Buffer-Free Continual Learning Classification},
-  author={Anonymous},
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2026}
+@misc{vahedifar2025forgettinglearningmemoryfreecontinual,
+      title={No Forgetting Learning: Memory-free Continual Learning}, 
+      author={Mohammad Ali Vahedifar and Qi Zhang},
+      year={2025},
+      eprint={2503.04638},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.04638}, 
 }
 ```
 
