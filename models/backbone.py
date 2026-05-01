@@ -1,10 +1,4 @@
-"""
-Backbone Networks for NFL and NFL+
 
-Includes ResNet-18 implementation adapted for continual learning.
-
-Anonymous submission - ICML 2026
-"""
 
 import torch
 import torch.nn as nn
