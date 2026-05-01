@@ -1,0 +1,20 @@
+# NFL Continual Learning Framework
+# Anonymous submission - NeurIPS 2026
+
+# Core
+torch>=1.12.0
+torchvision>=0.13.0
+numpy>=1.21.0
+
+# ViT backbone (NFL+LoRA)
+timm>=0.9.0
+
+# Utilities
+tqdm>=4.64.0
+Pillow>=9.0.0
+pandas>=1.4.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Optional: Avalanche baselines (iCaRL, etc.)
+# avalanche-lib>=0.4.0
