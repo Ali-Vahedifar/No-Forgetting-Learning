@@ -111,6 +111,7 @@ $$S = 1 - \frac{1}{T-1} \sum_{k=1}^{T-1} (A_{k,k} - A_{T,k})$$
 
 (Note: $A_{i,j}$ represents the accuracy on task $j$ after training on task $i$, and $T$ is the total number of tasks).
 
+![Evaluation Metrics](EM.png)
 ---
 
 ## 📚 Citation
