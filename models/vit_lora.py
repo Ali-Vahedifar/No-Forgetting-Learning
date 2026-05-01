@@ -1,12 +1,3 @@
-"""
-Vision Transformer with Low-Rank Adaptation (LoRA) for NFL+LoRA.
-
-Implements ViT-B/16 with LoRA modules as described in Section 3.4 of the paper.
-Pre-trained weights from ImageNet-21K remain frozen; only LoRA parameters
-(A, B matrices) and task heads are trainable.
-
-Anonymous submission - NeurIPS 2026
-"""
 
 import math
 import torch
