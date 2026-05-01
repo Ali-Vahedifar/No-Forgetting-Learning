@@ -2,9 +2,9 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
-<div align="center">
+
 
 # NFL: No Forgetting Learning
 ### A buffer-free approach to continual learning that actually works.
@@ -131,7 +131,7 @@ If you find this work useful in your research, please consider citing:
 
 ---
 
-<div align="center">
+<div align="left">
 
 **Questions? Issues? [Open a GitHub issue](../../issues).**
 
