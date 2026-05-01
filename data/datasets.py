@@ -1,10 +1,4 @@
-"""
-Dataset utilities for Continual Learning experiments.
 
-Supports CIFAR-100, Tiny-ImageNet, and ImageNet-1000 with task splits.
-
-Anonymous submission - ICML 2026
-"""
 
 import os
 import numpy as np
