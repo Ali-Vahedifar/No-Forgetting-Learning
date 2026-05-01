@@ -1,5 +1,3 @@
-# NFL Continual Learning Framework
-# Anonymous submission - NeurIPS 2026
 
 # Core
 torch>=1.12.0
