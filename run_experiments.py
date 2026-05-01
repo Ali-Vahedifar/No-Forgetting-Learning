@@ -10,7 +10,6 @@ Runs every configuration reported in the paper tables:
 External baselines (DCNet, NISPA, SpaceNet, PEC, DyTox, MEMO, iCaRL,
 CL-LoRA, EWC-LoRA) must be run from their own repositories.
 
-Anonymous submission - NeurIPS 2026
 
 Usage:
     python run_experiments.py --all --n_runs 10
