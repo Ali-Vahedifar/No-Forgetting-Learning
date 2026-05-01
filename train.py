@@ -1,16 +1,4 @@
-"""
-Main Training Script for NFL, NFL+, and NFL+LoRA Continual Learning Methods
 
-Implements the complete training pipeline for CIL and TIL scenarios.
-Matches the experiment setup described in Section 4 of the paper.
-
-Anonymous submission - NeurIPS 2026
-
-Usage:
-    python train.py --method nfl+ --dataset cifar100 --num_tasks 10 --scenario cil
-    python train.py --method nfl+lora --dataset imagenet-r --num_tasks 10 --scenario cil
-    python train.py --method ewc --dataset cifar100 --num_tasks 10 --scenario cil
-"""
 
 import os
 import argparse
