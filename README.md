@@ -11,7 +11,7 @@
 </div>
 
 ![NFL Continual Learning Diagram](NFL.png)
-<a href="Files/NFL Ch.pdf">View Figure (PDF)</a>
+
 
 ## What's this about?
 
