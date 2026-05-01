@@ -9,7 +9,6 @@ All baselines compared in the paper:
     Memory-based: iCaRL, DER++, DyTox, MEMO
     LoRA-based (ViT): CL-LoRA, EWC-LoRA
 
-Anonymous submission - NeurIPS 2026
 """
 
 import torch
