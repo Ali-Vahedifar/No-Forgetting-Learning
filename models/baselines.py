@@ -476,18 +476,6 @@ BASELINE_REGISTRY = {
     'sgd': SGDLowerBound,
 }
 
-# Methods requiring separate repositories (referenced in paper):
-EXTERNAL_BASELINES = {
-    'dcnet': 'https://github.com/xxx/DCNet',
-    'nispa': 'https://github.com/xxx/NISPA',
-    'spacenet': 'https://github.com/xxx/SpaceNet',
-    'pec': 'https://github.com/xxx/PEC',
-    'dytox': 'https://github.com/arthurdouillard/dytox',
-    'memo': 'https://github.com/xxx/MEMO',
-    'icarl': 'Avalanche: avalanche.training.supervised.ICaRL',
-    'cl-lora': 'https://github.com/xxx/CL-LoRA',
-    'ewc-lora': 'https://github.com/xxx/EWC-LoRA',
-}
 
 
 def get_baseline(name: str, model, device, **kwargs):
