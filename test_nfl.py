@@ -3,7 +3,6 @@ Unit Tests for NFL, NFL+, and NFL+LoRA
 
 Verifies correctness of all components including the new LoRA variant.
 
-Anonymous submission - NeurIPS 2026
 """
 
 import sys
