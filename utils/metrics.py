@@ -1,10 +1,3 @@
-"""
-Evaluation Metrics for Continual Learning
-
-Implements ACC, BWT, and the proposed PS (Plasticity-Stability) metric.
-
-Anonymous submission - ICML 2026
-"""
 
 import numpy as np
 import torch
